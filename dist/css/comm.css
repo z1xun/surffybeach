@@ -269,7 +269,7 @@ legend {
 body {
   background: #f8ea9f;
   color: #3a3a3a;
-  cursor: url(/images/cursor.png) 4 5, auto;
+  cursor: url(/surffybeach/images/cursor.png) 4 5, auto;
 }
 
 #header {
@@ -380,7 +380,7 @@ body {
 }
 
 .main-image {
-  background: url(/images/main_img.jpg) no-repeat 50% 0;
+  background: url(../../images/main_img.jpg) no-repeat 50% 0;
   text-transform: uppercase;
 }
 
@@ -415,7 +415,7 @@ body {
   font-size: 2.5rem;
 }
 #about .row .about-left1 {
-  background: url(/images/about-middle.jpg) no-repeat 50% 50%;
+  background: url(../../images/about-middle.jpg) no-repeat 50% 50%;
   height: 350px;
   position: relative;
 }
@@ -437,7 +437,7 @@ body {
   text-align: right;
 }
 #about .row .about-right2 {
-  background: url(/images/sunsetbar.jpg) no-repeat 50% 50%;
+  background: url(../../images/sunsetbar.jpg) no-repeat 50% 50%;
   height: 500px;
   position: relative;
 }
@@ -453,7 +453,7 @@ body {
   left: -27px;
 }
 #about .row .about-left3 {
-  background: url(/images/party.jpg) no-repeat 50% 50%;
+  background: url(../../images/party.jpg) no-repeat 50% 50%;
   height: 500px;
   position: relative;
 }
@@ -478,7 +478,7 @@ body {
 }
 
 .scroll-slider {
-  background-image: url(/images/bg-act.jpg);
+  background-image: url(../../images/bg-act.jpg);
   background-repeat: no-repeat;
   position: relative;
   overflow: hidden;
